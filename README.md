@@ -24,6 +24,10 @@ healthkart-dashboard/
 - 👤 Influencer-wise breakdown
 - 📤 Easy to update with new CSVs
 -☁️ Fully deployable using Render (free)
+
+Here is the live link for solution
+https://healthkart-dashboard-ahf0.onrender.com/
+
 🛠 Tech Stack
 - Streamlit – UI Framework
 - Python (Pandas) – Data Processing
